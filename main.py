@@ -65,7 +65,7 @@ def full_pipeline(path, save, ratio):
     return x_min, y_min, x_max, y_max
 
 if __name__ == '__main__':
-    data_path = "./data"
+    data_path = "./sample_data"
     result_path = "./result"
     data_list = os.listdir(data_path)
 
