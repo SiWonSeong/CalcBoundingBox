@@ -17,5 +17,5 @@
 - 따라서 제품 인식을 위해 모델을 학습시킬 때 전처리 과정이 단순화되어 용이
 
 ### 5. 프로그램 실행 결과 예시
-![image](https://user-images.githubusercontent.com/70686586/141742005-bdd2ac0a-1d9f-46e7-8bcd-dd91fedd2283.png)
-![image](https://user-images.githubusercontent.com/70686586/141742279-7cac88ed-83d9-413a-a40e-a57f8d4d9976.png)
+<img src="https://user-images.githubusercontent.com/70686586/141742005-bdd2ac0a-1d9f-46e7-8bcd-dd91fedd2283.png" width="100%" height="100%"></img>
+<img src="https://user-images.githubusercontent.com/70686586/141742279-7cac88ed-83d9-413a-a40e-a57f8d4d9976.png" width="30%" height="30%"></img>
